@@ -1,11 +1,24 @@
 {
   "name": "gulp-watch-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Grzegorz Kućmierz",
+  "repository" : {
+    "type": "git",
+    "url": "git@github.com:gkucmierz/gulp-watch-api.git"
+  },
+  "keywords": [
+    "gulp",
+    "watch",
+    "api",
+    "server",
+    "reload",
+    "spawn",
+    "child-process"
+  ],
   "license": "MIT"
 }
